@@ -1,0 +1,19 @@
+{
+  "name": "pruebadesarrollo",
+  "version": "1.0.0",
+  "description": "Aplicación web para CRUD con base de datos mysql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JaimePachon95/DesarrolloNode.git"
+  },
+  "author": "Jaime Pachón",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JaimePachon95/DesarrolloNode/issues"
+  },
+  "homepage": "https://github.com/JaimePachon95/DesarrolloNode#readme"
+}
