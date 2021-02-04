@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/JaimePachon95/DesarrolloNode/issues"
   },
-  "homepage": "https://github.com/JaimePachon95/DesarrolloNode#readme"
+  "homepage": "https://github.com/JaimePachon95/DesarrolloNode#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "expresss": "0.0.0",
+    "mysql": "^2.18.1"
+  }
 }
